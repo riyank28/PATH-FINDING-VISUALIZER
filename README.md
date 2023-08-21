@@ -15,4 +15,4 @@ Recursive Division Maze
 Thank you
 I hope you found the project useful and interesting.
 
--- Om Singh
+-- Riyank Jain
